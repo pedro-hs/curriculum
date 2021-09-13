@@ -30,8 +30,7 @@ PT_DATA = {
             'position': 'Desenvolvedor Mainframe Júnior',
             'period': 'Nov. 2017  -  Jun. 2019',
             'description': ('Análise, implementação e manutenção de sistemas de processamento de dados e criação de scripts para execução de procedimentos mainframe.\n\n'
-                            '. Tecnologias::  Cobol, Natural, JCL, DB2, ADABAS\n'
-                            '. Projetos::  Telefônica, Itaú\n')
+                            '. Tecnologias::  Cobol, Natural, JCL, DB2, ADABAS\n')
         }
     ],
     'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker',
@@ -63,15 +62,14 @@ EN_DATA = {
                             '. Backend Technologies::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
                             '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n'
                             '. Outsourced by::  Morpheus Tecnologia (Jul. 2019 - Jun. 2020)\n'
-                            '                              Pisomtech (Jul. 2020 - Atual)')
+                            '                              Pisomtech (Jul. 2020 - Nowadays)')
         },
         {
             'company': 'Everis',
             'position': 'Junior Mainframe Developer',
             'period': 'Nov. 2017  -  Jun. 2019',
             'description': ('Analysis, implementation and maintenance of data processing systems and development of mainframe procedure scripts.\n\n'
-                            '. Technologies::  Cobol, Natural, JCL, DB2, ADABAS\n'
-                            '. Projects::  Telefônica, Itaú\n')
+                            '. Technologies::  Cobol, Natural, JCL, DB2, ADABAS\n')
         }
     ],
     'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker',
