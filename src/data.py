@@ -23,7 +23,7 @@ PT_DATA = {
                             '. Tecnologias Backend::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
                             '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n'
                             '. Terceirizado::  Morpheus Tecnologia (Jul. 2019 - Jun. 2020)\n'
-                            '                           Pisomtech (Jul. 2020 - Atual)')
+                            '                           Pisomtech (Jul. 2020 - Atual) [remoto]')
         },
         {
             'company': 'Everis',
@@ -35,7 +35,7 @@ PT_DATA = {
     ],
     'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker',
     'academic': 'Sistemas para Internet; IFTM; Jun/22',
-    'languages': 'Inglês Avançado (leitura, escrita, conversação)'
+    'languages': 'Inglês Avançado (conversação e escrita)'
 }
 
 EN_DATA = {
@@ -56,13 +56,13 @@ EN_DATA = {
     'experiences': [
         {
             'company': 'Yandeh',
-            'position': 'Mid Full Stack Developer',
+            'position': 'Mid Level Full Stack Developer',
             'period': 'Jul. 2019  -  Nowadays',
             'description': ('Development of softwares for consumption chain management. Analysis, implementation, maintenance and testing of RESTful API and Single Page Application.\n\n'
                             '. Backend Technologies::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
                             '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n'
                             '. Outsourced by::  Morpheus Tecnologia (Jul. 2019 - Jun. 2020)\n'
-                            '                              Pisomtech (Jul. 2020 - Nowadays)')
+                            '                              Pisomtech (Jul. 2020 - Nowadays) [remote]')
         },
         {
             'company': 'Everis',
@@ -74,5 +74,5 @@ EN_DATA = {
     ],
     'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker',
     'academic': 'Systems for Internet; IFTM; Jun/22',
-    'languages': 'Advanced English (read, write, conversation)'
+    'languages': 'Advanced English (conversation and write)'
 }
