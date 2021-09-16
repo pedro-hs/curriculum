@@ -34,4 +34,4 @@ bash or sh
 - Example `source run.sh pt`
 - Parameters:
   - en: Generate in english
-  - pt: Generate in english
+  - pt: Generate in portuguese
