@@ -20,7 +20,6 @@ Languages:
 python3
 pip
 virtualenv
-bash or sh
 
 ```
 
