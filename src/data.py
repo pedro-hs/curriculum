@@ -17,10 +17,10 @@ PT_DATA = {
         {
             'company': 'Yandeh',
             'position': 'Desenvolvedor Full Stack Pleno',
-            'period': ('(Jul. 2019 - Atual)\n\n'
+            'period': ('Jul. 2019 - Atual\n\n'
                        'TERCEIRIZADO por:\n'
-                       '.Pisomtech (remoto)\n'
-                       '.Morpheus'),
+                       '. Pisomtech (remoto)\n'
+                       '. Morpheus'),
             'description': ('Desenvolvimento de softwares para gestão da cadeia de consumo. '
                             'Análise, implementação, manutenção e testes de API REST e Single Page Application.\n\n'
                             '. Tecnologias Backend::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
@@ -58,10 +58,10 @@ EN_DATA = {
         {
             'company': 'Yandeh',
             'position': 'Mid Level Full Stack Developer',
-            'period': ('(Jul. 2019 - Nowadays)\n\n'
+            'period': ('Jul. 2019 - Nowadays\n\n'
                        'OUTSOURCED by:\n'
-                       '.Pisomtech (remote)\n'
-                       '.Morpheus'),
+                       '. Pisomtech (remote)\n'
+                       '. Morpheus'),
             'description': ('Development of softwares for consumption chain management. Analysis, implementation, maintenance and testing of RESTful API and Single Page Application.\n\n'
                             '. Backend Technologies::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
                             '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n')
