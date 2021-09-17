@@ -41,12 +41,19 @@ class Curriculum(FPDF):
             self.set_draw_color(190, 190, 190)
             self.line(10, self.get_y(), self.w - 10, self.get_y())
 
+            top = self.y
+            offset = self.x + 40
+
             self._empty_line()
-            self._set_font(size=9)
-            self.cell(40, 7, expecience.period)
+            self._set_font(size=8)
+            self.multi_cell(40, 7, expecience.period)
+
+            self.y = top
+            self.x = offset
 
             self._set_font(size=11)
-            self.multi_cell(155, 7, expecience.description.encode('latin-1', 'replace').decode('latin-1'), align='L')
+            self.multi_cell(153, 7, expecience.description.encode('latin-1', 'replace').decode('latin-1'), align='L')
+            self._empty_line(4)
 
     def knowledges(self):
         self._full_section_header(self.data.section_titles.knowledges)
@@ -58,7 +65,7 @@ class Curriculum(FPDF):
         self.cell(0, 7, self.data.knowledges)
 
     def others(self):
-        self._empty_line(8)
+        self._empty_line(12)
 
         self._half_section_header(self.data.section_titles.academic, width=90)
         self.cell(10, 7)
@@ -113,7 +120,7 @@ class Curriculum(FPDF):
         self.set_font('arial', style, size)
 
     def _full_section_header(self, text):
-        self._empty_line(5)
+        self._empty_line(6)
         self._set_font('B')
 
         self._section_line(1)

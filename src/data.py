@@ -17,13 +17,14 @@ PT_DATA = {
         {
             'company': 'Yandeh',
             'position': 'Desenvolvedor Full Stack Pleno',
-            'period': 'Jul. 2019  -  Atual',
+            'period': ('(Jul. 2019 - Atual)\n\n'
+                       'TERCEIRIZADO por:\n'
+                       'Pisomtech (remoto)\n'
+                       'Morpheus'),
             'description': ('Desenvolvimento de softwares para gestão da cadeia de consumo. '
                             'Análise, implementação, manutenção e testes de API REST e Single Page Application.\n\n'
                             '. Tecnologias Backend::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
-                            '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n'
-                            '. Terceirizado::  Morpheus Tecnologia (Jul. 2019 - Jun. 2020)\n'
-                            '                           Pisomtech (Jul. 2020 - Atual) [remoto]')
+                            '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n')
         },
         {
             'company': 'Everis',
@@ -57,12 +58,13 @@ EN_DATA = {
         {
             'company': 'Yandeh',
             'position': 'Mid Level Full Stack Developer',
-            'period': 'Jul. 2019  -  Nowadays',
+            'period': ('(Jul. 2019 - Nowadays)\n\n'
+                       'OUTSOURCED by:\n'
+                       'Pisomtech (remote)\n'
+                       'Morpheus'),
             'description': ('Development of softwares for consumption chain management. Analysis, implementation, maintenance and testing of RESTful API and Single Page Application.\n\n'
                             '. Backend Technologies::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
-                            '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n'
-                            '. Outsourced by::  Morpheus Tecnologia (Jul. 2019 - Jun. 2020)\n'
-                            '                              Pisomtech (Jul. 2020 - Nowadays) [remote]')
+                            '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n')
         },
         {
             'company': 'Everis',
