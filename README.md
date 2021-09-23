@@ -28,8 +28,4 @@ virtualenv
 ## Start
 
 - Run`source install.sh` to configure environment
-- Run`source run.sh [parameter]` to generate pdf and open with xdg-open
-- Example `source run.sh pt`
-- Parameters:
-  - en: Generate in english
-  - pt: Generate in portuguese
+- Run`generate_pdfs.sh` to generate pdfs of my curriculum
