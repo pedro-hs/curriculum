@@ -27,7 +27,6 @@ virtualenv
 
 ## Start
 
-- `(In a debian like environment)`
 - Run`source install.sh` to configure environment
 - Run`source run.sh [parameter]` to generate pdf and open with xdg-open
 - Example `source run.sh pt`
