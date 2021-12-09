@@ -15,9 +15,17 @@ PT_DATA = {
     },
     'experiences': [
         {
+            'company': 'Bravi',
+            'position': 'Desenvolvedor Full Stack Pleno',
+            'period': 'Out. 2021 - Atual (remoto)',
+            'description': ('. Tecnologias Backend::  Python, Django Rest Framework, PostgreSQL\n'
+                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Jest\n')
+
+        },
+        {
             'company': 'Yandeh',
             'position': 'Desenvolvedor Full Stack Pleno',
-            'period': ('Jul. 2019 - Atual\n\n'
+            'period': ('Jul. 2019 - Out. 2021\n\n'
                        'TERCEIRIZADO por:\n'
                        '. Pisomtech (remoto)\n'
                        '. Morpheus'),
@@ -34,7 +42,7 @@ PT_DATA = {
                             '. Tecnologias::  Cobol, Natural, JCL, DB2, ADABAS\n')
         }
     ],
-    'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker',
+    'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker, Vimscript',
     'academic': 'Sistemas para Internet; IFTM; Jun/22',
     'languages': 'Inglês Avançado (conversação e escrita)'
 }
@@ -56,9 +64,17 @@ EN_DATA = {
     },
     'experiences': [
         {
+            'company': 'Bravi',
+            'position': 'Mid Level Full Stack Developer',
+            'period': 'Oct. 2021 - Current (remote)',
+            'description': ('. Backend Technologies::  Python, Django Rest Framework, PostgreSQL\n'
+                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Jest\n')
+
+        },
+        {
             'company': 'Yandeh',
             'position': 'Mid Level Full Stack Developer',
-            'period': ('Jul. 2019 - Nowadays\n\n'
+            'period': ('Jul. 2019 - Oct. 2021\n\n'
                        'OUTSOURCED by:\n'
                        '. Pisomtech (remote)\n'
                        '. Morpheus'),
@@ -74,7 +90,7 @@ EN_DATA = {
                             '. Technologies::  Cobol, Natural, JCL, DB2, ADABAS\n')
         }
     ],
-    'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker',
+    'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker, Vimscript',
     'academic': 'Systems for Internet; IFTM; Jun/22',
     'languages': 'Advanced English (conversation and write)'
 }

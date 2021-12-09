@@ -32,7 +32,7 @@ class Curriculum(FPDF):
         self._full_section_header(self.data.section_titles.expeciences)
 
         for expecience in self.data.experiences:
-            self._empty_line(4)
+            self._empty_line(3)
 
             self._set_font('B')
             self.cell(40, 7, expecience.company)
@@ -53,7 +53,7 @@ class Curriculum(FPDF):
 
             self._set_font(size=11)
             self.multi_cell(153, 7, expecience.description.encode('latin-1', 'replace').decode('latin-1'), align='L')
-            self._empty_line(4)
+            self._empty_line(1)
 
     def knowledges(self):
         self._full_section_header(self.data.section_titles.knowledges)
