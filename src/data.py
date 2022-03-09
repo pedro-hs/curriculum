@@ -18,8 +18,8 @@ PT_DATA = {
             'company': 'Bravi',
             'position': 'Desenvolvedor Full Stack Pleno',
             'period': 'Out. 2021 - Atual (remoto)',
-            'description': ('. Tecnologias Backend::  Python, Django Rest Framework, PostgreSQL\n'
-                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Jest\n')
+            'description': ('. Tecnologias Backend::  Python, Django Rest Framework, PostgreSQL, Node, Serverless\n'
+                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Jest, Angular, Ngrx, Bootstrap\n')
 
         },
         {
@@ -44,7 +44,7 @@ PT_DATA = {
     ],
     'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker, Vimscript',
     'academic': 'Sistemas para Internet; IFTM; Jun/22',
-    'languages': 'Inglês Avançado (conversação e escrita)'
+    'languages': 'Inglês Intermediário (conversação e escrita)'
 }
 
 EN_DATA = {
@@ -67,8 +67,8 @@ EN_DATA = {
             'company': 'Bravi',
             'position': 'Mid Level Full Stack Developer',
             'period': 'Oct. 2021 - Current (remote)',
-            'description': ('. Backend Technologies::  Python, Django Rest Framework, PostgreSQL\n'
-                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Jest\n')
+            'description': ('. Backend Technologies::  Python, Django Rest Framework, PostgreSQL, Node, Serverless\n'
+                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Jest, Angular, Ngrx, Bootstrap\n')
 
         },
         {
@@ -92,5 +92,5 @@ EN_DATA = {
     ],
     'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker, Vimscript',
     'academic': 'Systems for Internet; IFTM; Jun/22',
-    'languages': 'Advanced English (conversation and write)'
+    'languages': 'Intermediary English (conversation and write)'
 }
