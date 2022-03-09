@@ -18,8 +18,8 @@ PT_DATA = {
             'company': 'Bravi',
             'position': 'Desenvolvedor Full Stack Pleno',
             'period': 'Out. 2021 - Atual (remoto)',
-            'description': ('. Tecnologias Backend::  Python, Django Rest Framework, PostgreSQL, Node, Serverless\n'
-                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Jest, Angular, Ngrx, Bootstrap\n')
+            'description': ('. Backend::  Python, Django Rest Framework, PostgreSQL, Node, Serverless\n'
+                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Angular, Ngrx, Bootstrap\n')
 
         },
         {
@@ -31,7 +31,7 @@ PT_DATA = {
                        '. Morpheus'),
             'description': ('Desenvolvimento de softwares para gestão da cadeia de consumo. '
                             'Análise, implementação, manutenção e testes de API REST e Single Page Application.\n\n'
-                            '. Tecnologias Backend::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
+                            '. Backend::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
                             '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n')
         },
         {
@@ -43,7 +43,7 @@ PT_DATA = {
         }
     ],
     'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker, Vimscript',
-    'academic': 'Sistemas para Internet; IFTM; Jun/22',
+    'academic': 'Sistemas para Internet; IFTM; Dez/22',
     'languages': 'Inglês Intermediário (conversação e escrita)'
 }
 
@@ -67,8 +67,8 @@ EN_DATA = {
             'company': 'Bravi',
             'position': 'Mid Level Full Stack Developer',
             'period': 'Oct. 2021 - Current (remote)',
-            'description': ('. Backend Technologies::  Python, Django Rest Framework, PostgreSQL, Node, Serverless\n'
-                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Jest, Angular, Ngrx, Bootstrap\n')
+            'description': ('. Backend::  Python, Django Rest Framework, PostgreSQL, Node, Serverless\n'
+                            '. Frontend::  React, TypeScript, MaterialUI, React Testing Lib, Angular, Ngrx, Bootstrap\n')
 
         },
         {
@@ -79,7 +79,7 @@ EN_DATA = {
                        '. Pisomtech (remote)\n'
                        '. Morpheus'),
             'description': ('Development of softwares for consumption chain management. Analysis, implementation, maintenance and testing of RESTful API and Single Page Application.\n\n'
-                            '. Backend Technologies::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
+                            '. Backend::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
                             '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n')
         },
         {
@@ -91,6 +91,6 @@ EN_DATA = {
         }
     ],
     'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker, Vimscript',
-    'academic': 'Systems for Internet; IFTM; Jun/22',
+    'academic': 'Systems for Internet; IFTM; Dec/22',
     'languages': 'Intermediary English (conversation and write)'
 }
