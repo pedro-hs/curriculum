@@ -15,13 +15,10 @@ class Curriculum(FPDF):
         self._set_ornament_color()
         self.rect(0, 0, 2, 15.2, 'F')
 
-        self._empty_line()
+        self._empty_line(2)
 
         self._set_font('B', 13)
         self._section_line(7, self.data.info.name)
-
-        self._set_font()
-        self._section_line(3, self.data.info.age)
 
         self.image('images/github.png', self.w - 80, 2, h=10)
         self._set_font('I')
@@ -74,8 +71,10 @@ class Curriculum(FPDF):
         self._empty_line(4)
 
         self._set_font(size=11)
-        self.cell(102, 15, self.data.academic)
-        self.cell(0, 15, self.data.languages)
+
+        self.cell(102, 15, self.data.academic[0])
+        self.cell(0, 15, self.data.languages, ln=1)
+        self.cell(0, 0, self.data.academic[1])
 
     def footer(self):
         self.set_y(-60)

@@ -1,7 +1,6 @@
 PT_DATA = {
     'info': {
         'name': 'PEDRO SANTOS ARRUDA',
-        'age': '22 anos',
         'github': 'github.com/pedro-hs',
         'linkedin': 'linkedin.com/in/pedro-santos-arruda',
         'email': 'pedrosantosarruda@outlook.com',
@@ -42,15 +41,14 @@ PT_DATA = {
                             '. Tecnologias::  Cobol, Natural, JCL, DB2, ADABAS\n')
         }
     ],
-    'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker, Vimscript',
-    'academic': 'Sistemas para Internet; IFTM; Dez/22',
+    'knowledges': 'JavaScript, HTML, CSS, Shell/Bash Script, Docker',
+    'academic': ['Sistema de Informação; PUC MG (transferência)', 'Sistemas para Internet; IFTM (em pausa)'],
     'languages': 'Inglês Intermediário (conversação e escrita)'
 }
 
 EN_DATA = {
     'info': {
         'name': 'PEDRO SANTOS ARRUDA',
-        'age': '22 years old',
         'github': 'github.com/pedro-hs',
         'linkedin': 'linkedin.com/in/pedro-santos-arruda',
         'email': 'pedrosantosarruda@outlook.com',
@@ -90,7 +88,7 @@ EN_DATA = {
                             '. Technologies::  Cobol, Natural, JCL, DB2, ADABAS\n')
         }
     ],
-    'knowledges': 'Django, JavaScript, HTML, CSS, Shell/Bash Script, Docker, Vimscript',
-    'academic': 'Systems for Internet; IFTM; Dec/22',
+    'knowledges': 'JavaScript, HTML, CSS, Shell/Bash Script, Docker',
+    'academic': ['Information Systems; PUC MG (transferred)', 'Systems for Internet; IFTM (taking a break)'],
     'languages': 'Intermediary English (conversation and write)'
 }
