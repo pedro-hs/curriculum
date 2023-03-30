@@ -76,7 +76,7 @@ EN_DATA = {
                        'OUTSOURCED by:\n'
                        '. Pisomtech (remote)\n'
                        '. Morpheus'),
-            'description': ('Development of softwares for consumption chain management. Analysis, implementation, maintenance and testing of RESTful API and Single Page Application.\n\n'
+            'description': ('Development of softwares for supply chain management. Analysis, implementation, maintenance and testing of RESTful API and Single Page Application.\n\n'
                             '. Backend::  Python, Bottle, PostgreSQL, Pytest, AWS, Swagger\n'
                             '. Frontend::  React, TypeScript, Jest, Enzyme, React Testing Lib, AntDesign\n')
         },
